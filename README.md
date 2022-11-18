@@ -7,10 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/TylerAllen2001/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TylerAllen2001/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Setting up Active Directory through Microsoft Azure](https://github.com/TylerAllen2001/configure-ad)
-  - [Adding Users and Granting Permissions in Active Directory](https://github.com/TylerAllen2001/configure-ad)
-  - [Adding DNS to Active Directory](https://github.com/TylerAllen2001/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TylerAllen2001/azure-network-protocols)
+  - [Setting up Active Directory through Microsoft Azure](https://github.com/TylerAllen2001/active-directory-setup)
+  - [Adding Users and Granting Permissions in Active Directory](https://github.com/TylerAllen2001/active-directory-permissions)
+  - [Adding DNS to Active Directory](https://github.com/TylerAllen2001/active-directory-dns)
 
 <h2>🤳Connect with me:</h2>
 
