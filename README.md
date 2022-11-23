@@ -18,4 +18,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/tyler-allen-43b682201/
-.
+
