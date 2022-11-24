@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/TylerAllen2001/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Setting up Active Directory through Microsoft Azure](https://github.com/TylerAllen2001/active-directory-setup)
-  - [Adding Users and Granting Permissions in Active Directory](https://github.com/TylerAllen2001/active-directory-permissions)
+  - [Adding Directory Permissions](https://github.com/TylerAllen2001/active-directory-permissions)
   - [Adding DNS to Active Directory](https://github.com/TylerAllen2001/active-directory-dns)
 
 <h2>🤳Connect with me:</h2>
